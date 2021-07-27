@@ -1,1 +1,3 @@
-# files-matatika-sit-datasets
+# analyze-sit
+
+Datasets used in the Matatika SITs.
