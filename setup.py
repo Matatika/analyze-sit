@@ -7,8 +7,8 @@ setup(
     packages=find_packages(),
     package_data={
         "bundle": [
-            "analyze/datasets/*.yaml",
-            "analyze/datasets/*.yml"
+            "analyze/datasets/**/*.yaml",
+            "analyze/datasets/**/*.yml"
         ]
     }
 )
